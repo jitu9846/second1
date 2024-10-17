@@ -1,25 +1,21 @@
-**Gesture-Based Smart Door Unlock**
+Gesture-Based Smart Door Unlock
 
-## Description
+Description
 This project implements a gesture-based smart door unlock system using IoT technology. The system allows users to unlock their doors through specific hand gestures, enhancing security and convenience.
 
-## Features
-- Gesture recognition using [specific sensor/technology].
-- Secure unlocking mechanism.
-- User-friendly interface for setup and configuration.
+Features
+Gesture recognition using [specific sensor/technology].
+Secure unlocking mechanism.
+User-friendly interface for setup and configuration.
+Hardware Components
+List of required components:
+Microcontroller
+Ultrasonic sensor
+Servo motor
+Power supply
+Piezoelectric sensor
+Buzzer
+The software runs on Arduino IDE and uses Python for implementation.
 
-## Hardware Components
-- List of required components:
-  - Microcontroller 
-  - ultrasonic  sensor
-  - Servo motor
-  - Power supply
-  -peizoelectric sensor
-     -buzzer
-  
-The software runs on  Arduino IDE and uses Python for implementation. 
-
-### Installation
+Installation
 Clone the repository and install required libraries:
-
-
